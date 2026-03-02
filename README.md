@@ -12,6 +12,7 @@ complex digital architectures.
 - Full Adder
 - Arithmetic Logic Unit (ALU)
 - System Integration Experiments
+- Serial Communication System
 
 ## Objective
 Bridge foundational logic knowledge with complete
